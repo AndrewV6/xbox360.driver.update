@@ -1,6 +1,6 @@
 # Package update instructions for XBox 360 Wireless Gaming Receiver driver
 
-Your receiver displayed as `Unknown device` in device manager? This instruction could help
+Your receiver displayed as `Unknown device` in device manager? This instruction may help
 
 - Disconnect XBox 360 Wireless Gaming Receiver.
 - Download & install driver package https://www.microsoft.com/accessories/ru-ru/d/xbox-360-wireless-controller-for-windows
