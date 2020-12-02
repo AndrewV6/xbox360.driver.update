@@ -4,6 +4,7 @@
 - Install it.
 - Backup Xusb21.inf & xusb21.cat files in `\Program Files\Microsoft Xbox 360 Accessories` folder.
 - Replace Xusb21.inf & xusb21.cat files to attached ones.
+- Install self-signed certificate `ss.cer` to machine trusted root certificate store.
 - Install inf file.
 - Connect XBox 360 Wireless Gaming Receiver.
 - Play
